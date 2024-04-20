@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-![Movie recommender system while searching for movies](https://cdn-images-1.medium.com/max/1500/1*leuI7fVkeOrKAIGOOj_T9A.png)
+![Movie recommender system while searching for movies](movie_demo.png)
 
 #### Abstract
 With the vast amount of movies available across various platforms, users often face the challenge
